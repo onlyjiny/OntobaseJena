@@ -1,8 +1,56 @@
-<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
-  <modelVersion>4.0.0</modelVersion>
-  <groupId>com.list.ontobase</groupId>
-  <artifactId>ontobase-jena</artifactId>
-  <version>0.0.1-SNAPSHOT</version>
-  <name>Jena Interface for Ontobase</name>
-  <description>Jena Interface for Ontobase</description>
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+	<modelVersion>4.0.0</modelVersion>
+	<groupId>com.list.ontobase</groupId>
+	<artifactId>ontobase-jena</artifactId>
+	<version>0.0.1-SNAPSHOT</version>
+	<name>Jena Interface for Ontobase</name>
+	<description>Jena Interface for Ontobase</description>
+
+	<dependencies>
+		<!-- https://mvnrepository.com/artifact/org.apache.jena/jena -->
+		<dependency>
+			<groupId>org.apache.jena</groupId>
+			<artifactId>jena</artifactId>
+			<version>3.6.0</version>
+			<type>pom</type>
+		</dependency>
+		<!-- https://mvnrepository.com/artifact/org.apache.jena/jena-core -->
+		<dependency>
+			<groupId>org.apache.jena</groupId>
+			<artifactId>jena-core</artifactId>
+			<version>3.6.0</version>
+		</dependency>
+		<!-- https://mvnrepository.com/artifact/org.apache.jena/jena-arq -->
+		<dependency>
+			<groupId>org.apache.jena</groupId>
+			<artifactId>jena-arq</artifactId>
+			<version>3.6.0</version>
+		</dependency>
+		<!-- https://mvnrepository.com/artifact/org.apache.jena/apache-jena-libs -->
+		<dependency>
+			<groupId>org.apache.jena</groupId>
+			<artifactId>apache-jena-libs</artifactId>
+			<version>3.6.0</version>
+			<type>pom</type>
+		</dependency>
+		<!-- https://mvnrepository.com/artifact/org.apache.jena/jena-shaded-guava -->
+		<dependency>
+			<groupId>org.apache.jena</groupId>
+			<artifactId>jena-shaded-guava</artifactId>
+			<version>3.6.0</version>
+		</dependency>
+		<!-- https://mvnrepository.com/artifact/org.apache.jena/jena-rdfconnection -->
+		<dependency>
+			<groupId>org.apache.jena</groupId>
+			<artifactId>jena-rdfconnection</artifactId>
+			<version>3.6.0</version>
+		</dependency>
+		<!-- https://mvnrepository.com/artifact/org.apache.jena/jena-cmds -->
+		<dependency>
+			<groupId>org.apache.jena</groupId>
+			<artifactId>jena-cmds</artifactId>
+			<version>3.6.0</version>
+		</dependency>
+	</dependencies>
 </project>
