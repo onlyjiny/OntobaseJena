@@ -1,0 +1,16 @@
+[2018-07-17 16:31:02] DEBUG [main] (system.JenaSystem$JenaInitLevel0 - start:212) - Jena initialization
+[2018-07-17 16:31:02] DEBUG [main] (util.FileManager - addLocator:158) - Add location: LocatorFile
+[2018-07-17 16:31:02] DEBUG [main] (util.FileManager - addLocator:158) - Add location: ClassLoaderLocator
+[2018-07-17 16:31:02] DEBUG [main] (util.LocationMapper - initFromPath:152) - Failed to find configuration: file:location-mapping.rdf;file:location-mapping.n3;file:location-mapping.ttl;file:etc/location-mapping.rdf;file:etc/location-mapping.n3;file:etc/location-mapping.ttl
+[2018-07-17 16:31:02] DEBUG [main] (util.FileManager - addLocator:158) - Add location: LocatorFile
+[2018-07-17 16:31:02] DEBUG [main] (util.FileManager - addLocator:158) - Add location: LocatorURL
+[2018-07-17 16:31:02] DEBUG [main] (util.FileManager - addLocator:158) - Add location: ClassLoaderLocator
+[2018-07-17 16:31:02] DEBUG [main] (stream.JenaIOEnvironment - createLocationMapper:180) - Failed to find configuration: location-mapping.ttl;location-mapping.rdf;location-mapping.n3;etc/location-mapping.rdf;etc/location-mapping.n3;etc/location-mapping.ttl
+[2018-07-17 16:31:02] DEBUG [main] (sys.SystemTDB - determineIf64Bit:334) - System architecture: 64 bit
+[2018-07-17 16:31:02] DEBUG [main] (sys.SystemTDB - determineIf64Bit:330) - System architecture: 64 bit
+[2018-07-17 16:31:02]  INFO [main] (model.OntoModel - <init>:57) - Create instance model connected with Ontobase 192.168.0.11:9999/NationalLibrary
+[2018-07-17 18:22:11] ERROR [main] (impl.RDFDefaultErrorHandler - error:53) - Syntax error at line 1 position 1: unexpected input
+[2018-07-17 18:22:31] ERROR [main] (impl.RDFDefaultErrorHandler - error:53) - Syntax error at line 1 position 1: unexpected input
+[2018-07-17 18:22:41] ERROR [main] (impl.RDFDefaultErrorHandler - error:53) - Syntax error at line 1 position 1: unexpected input
+[2018-07-17 18:24:02] ERROR [main] (impl.RDFDefaultErrorHandler - error:53) - Syntax error at line 1 position 1: unexpected input
+[2018-07-17 18:25:17] ERROR [main] (impl.RDFDefaultErrorHandler - error:53) - Syntax error at line 1 position 6: premature end of file

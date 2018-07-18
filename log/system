@@ -1,0 +1,86 @@
+[2018-07-18 10:45:46] ERROR [main] (impl.RDFDefaultErrorHandler - error:53) - Syntax error at line 1 position 4: premature end of file
+[2018-07-18 10:46:19] ERROR [main] (impl.RDFDefaultErrorHandler - error:53) - Syntax error at line 1 position 4: premature end of file
+[2018-07-18 10:50:44] ERROR [main] (impl.RDFDefaultErrorHandler - error:53) - Syntax error at line 1 position 4: premature end of file
+[2018-07-18 10:55:00] ERROR [main] (impl.RDFDefaultErrorHandler - error:53) - Syntax error at line 1 position 4: premature end of file
+[2018-07-18 10:55:23] ERROR [main] (impl.RDFDefaultErrorHandler - error:53) - Syntax error at line 1 position 4: premature end of file
+[2018-07-18 10:57:15] ERROR [main] (impl.RDFDefaultErrorHandler - error:53) - Syntax error at line 1 position 4: premature end of file
+[2018-07-18 11:21:21] ERROR [main] (impl.RDFDefaultErrorHandler - error:53) - Syntax error at line 1 position 4: premature end of file
+[2018-07-18 11:24:01] ERROR [main] (impl.RDFDefaultErrorHandler - error:53) - Syntax error at line 1 position 4: premature end of file
+[2018-07-18 11:25:19] DEBUG [main] (system.JenaSystem$JenaInitLevel0 - start:212) - Jena initialization
+[2018-07-18 11:25:19] DEBUG [main] (util.FileManager - addLocator:158) - Add location: LocatorFile
+[2018-07-18 11:25:19] DEBUG [main] (util.FileManager - addLocator:158) - Add location: ClassLoaderLocator
+[2018-07-18 11:25:19] DEBUG [main] (util.LocationMapper - initFromPath:152) - Failed to find configuration: file:location-mapping.rdf;file:location-mapping.n3;file:location-mapping.ttl;file:etc/location-mapping.rdf;file:etc/location-mapping.n3;file:etc/location-mapping.ttl
+[2018-07-18 11:25:19] DEBUG [main] (util.FileManager - addLocator:158) - Add location: LocatorFile
+[2018-07-18 11:25:19] DEBUG [main] (util.FileManager - addLocator:158) - Add location: LocatorURL
+[2018-07-18 11:25:19] DEBUG [main] (util.FileManager - addLocator:158) - Add location: ClassLoaderLocator
+[2018-07-18 11:25:19] DEBUG [main] (stream.JenaIOEnvironment - createLocationMapper:180) - Failed to find configuration: location-mapping.ttl;location-mapping.rdf;location-mapping.n3;etc/location-mapping.rdf;etc/location-mapping.n3;etc/location-mapping.ttl
+[2018-07-18 11:25:19] DEBUG [main] (sys.SystemTDB - determineIf64Bit:334) - System architecture: 64 bit
+[2018-07-18 11:25:19] DEBUG [main] (sys.SystemTDB - determineIf64Bit:330) - System architecture: 64 bit
+[2018-07-18 11:27:43] DEBUG [main] (system.JenaSystem$JenaInitLevel0 - start:212) - Jena initialization
+[2018-07-18 11:27:44] DEBUG [main] (util.FileManager - addLocator:158) - Add location: LocatorFile
+[2018-07-18 11:27:44] DEBUG [main] (util.FileManager - addLocator:158) - Add location: ClassLoaderLocator
+[2018-07-18 11:27:44] DEBUG [main] (util.LocationMapper - initFromPath:152) - Failed to find configuration: file:location-mapping.rdf;file:location-mapping.n3;file:location-mapping.ttl;file:etc/location-mapping.rdf;file:etc/location-mapping.n3;file:etc/location-mapping.ttl
+[2018-07-18 11:27:44] DEBUG [main] (util.FileManager - addLocator:158) - Add location: LocatorFile
+[2018-07-18 11:27:44] DEBUG [main] (util.FileManager - addLocator:158) - Add location: LocatorURL
+[2018-07-18 11:27:44] DEBUG [main] (util.FileManager - addLocator:158) - Add location: ClassLoaderLocator
+[2018-07-18 11:27:44] DEBUG [main] (stream.JenaIOEnvironment - createLocationMapper:180) - Failed to find configuration: location-mapping.ttl;location-mapping.rdf;location-mapping.n3;etc/location-mapping.rdf;etc/location-mapping.n3;etc/location-mapping.ttl
+[2018-07-18 11:27:44] DEBUG [main] (sys.SystemTDB - determineIf64Bit:334) - System architecture: 64 bit
+[2018-07-18 11:27:44] DEBUG [main] (sys.SystemTDB - determineIf64Bit:330) - System architecture: 64 bit
+[2018-07-18 11:28:10] ERROR [main] (impl.RDFDefaultErrorHandler - error:53) - Syntax error at line 1 position 7: expected "^^<"
+[2018-07-18 11:28:10] ERROR [main] (impl.RDFDefaultErrorHandler - error:53) - Syntax error at line 1 position 7: ill-formed datatype
+[2018-07-18 11:28:26] DEBUG [main] (system.JenaSystem$JenaInitLevel0 - start:212) - Jena initialization
+[2018-07-18 11:28:26] DEBUG [main] (util.FileManager - addLocator:158) - Add location: LocatorFile
+[2018-07-18 11:28:26] DEBUG [main] (util.FileManager - addLocator:158) - Add location: ClassLoaderLocator
+[2018-07-18 11:28:26] DEBUG [main] (util.LocationMapper - initFromPath:152) - Failed to find configuration: file:location-mapping.rdf;file:location-mapping.n3;file:location-mapping.ttl;file:etc/location-mapping.rdf;file:etc/location-mapping.n3;file:etc/location-mapping.ttl
+[2018-07-18 11:28:26] DEBUG [main] (util.FileManager - addLocator:158) - Add location: LocatorFile
+[2018-07-18 11:28:26] DEBUG [main] (util.FileManager - addLocator:158) - Add location: LocatorURL
+[2018-07-18 11:28:26] DEBUG [main] (util.FileManager - addLocator:158) - Add location: ClassLoaderLocator
+[2018-07-18 11:28:26] DEBUG [main] (stream.JenaIOEnvironment - createLocationMapper:180) - Failed to find configuration: location-mapping.ttl;location-mapping.rdf;location-mapping.n3;etc/location-mapping.rdf;etc/location-mapping.n3;etc/location-mapping.ttl
+[2018-07-18 11:28:26] DEBUG [main] (sys.SystemTDB - determineIf64Bit:334) - System architecture: 64 bit
+[2018-07-18 11:28:26] DEBUG [main] (sys.SystemTDB - determineIf64Bit:330) - System architecture: 64 bit
+[2018-07-18 11:28:41] DEBUG [main] (system.JenaSystem$JenaInitLevel0 - start:212) - Jena initialization
+[2018-07-18 11:28:41] DEBUG [main] (util.FileManager - addLocator:158) - Add location: LocatorFile
+[2018-07-18 11:28:41] DEBUG [main] (util.FileManager - addLocator:158) - Add location: ClassLoaderLocator
+[2018-07-18 11:28:41] DEBUG [main] (util.LocationMapper - initFromPath:152) - Failed to find configuration: file:location-mapping.rdf;file:location-mapping.n3;file:location-mapping.ttl;file:etc/location-mapping.rdf;file:etc/location-mapping.n3;file:etc/location-mapping.ttl
+[2018-07-18 11:28:41] DEBUG [main] (util.FileManager - addLocator:158) - Add location: LocatorFile
+[2018-07-18 11:28:41] DEBUG [main] (util.FileManager - addLocator:158) - Add location: LocatorURL
+[2018-07-18 11:28:41] DEBUG [main] (util.FileManager - addLocator:158) - Add location: ClassLoaderLocator
+[2018-07-18 11:28:41] DEBUG [main] (stream.JenaIOEnvironment - createLocationMapper:180) - Failed to find configuration: location-mapping.ttl;location-mapping.rdf;location-mapping.n3;etc/location-mapping.rdf;etc/location-mapping.n3;etc/location-mapping.ttl
+[2018-07-18 11:28:41] DEBUG [main] (sys.SystemTDB - determineIf64Bit:334) - System architecture: 64 bit
+[2018-07-18 11:28:41] DEBUG [main] (sys.SystemTDB - determineIf64Bit:330) - System architecture: 64 bit
+[2018-07-18 11:28:55] DEBUG [main] (system.JenaSystem$JenaInitLevel0 - start:212) - Jena initialization
+[2018-07-18 11:28:56] DEBUG [main] (util.FileManager - addLocator:158) - Add location: LocatorFile
+[2018-07-18 11:28:56] DEBUG [main] (util.FileManager - addLocator:158) - Add location: ClassLoaderLocator
+[2018-07-18 11:28:56] DEBUG [main] (util.LocationMapper - initFromPath:152) - Failed to find configuration: file:location-mapping.rdf;file:location-mapping.n3;file:location-mapping.ttl;file:etc/location-mapping.rdf;file:etc/location-mapping.n3;file:etc/location-mapping.ttl
+[2018-07-18 11:28:56] DEBUG [main] (util.FileManager - addLocator:158) - Add location: LocatorFile
+[2018-07-18 11:28:56] DEBUG [main] (util.FileManager - addLocator:158) - Add location: LocatorURL
+[2018-07-18 11:28:56] DEBUG [main] (util.FileManager - addLocator:158) - Add location: ClassLoaderLocator
+[2018-07-18 11:28:56] DEBUG [main] (stream.JenaIOEnvironment - createLocationMapper:180) - Failed to find configuration: location-mapping.ttl;location-mapping.rdf;location-mapping.n3;etc/location-mapping.rdf;etc/location-mapping.n3;etc/location-mapping.ttl
+[2018-07-18 11:28:56] DEBUG [main] (sys.SystemTDB - determineIf64Bit:334) - System architecture: 64 bit
+[2018-07-18 11:28:56] DEBUG [main] (sys.SystemTDB - determineIf64Bit:330) - System architecture: 64 bit
+[2018-07-18 15:04:42] DEBUG [main] (sys.JenaSystem$JenaInitLevel0 - start:212) - Jena initialization
+[2018-07-18 15:04:42] DEBUG [main] (util.FileManager - addLocator:158) - Add location: LocatorFile
+[2018-07-18 15:04:42] DEBUG [main] (util.FileManager - addLocator:158) - Add location: ClassLoaderLocator
+[2018-07-18 15:04:42] DEBUG [main] (util.LocationMapper - initFromPath:152) - Failed to find configuration: file:location-mapping.rdf;file:location-mapping.n3;file:location-mapping.ttl;file:etc/location-mapping.rdf;file:etc/location-mapping.n3;file:etc/location-mapping.ttl
+[2018-07-18 15:04:42] DEBUG [main] (util.FileManager - addLocator:158) - Add location: LocatorFile
+[2018-07-18 15:04:42] DEBUG [main] (util.FileManager - addLocator:158) - Add location: LocatorURL
+[2018-07-18 15:04:42] DEBUG [main] (util.FileManager - addLocator:158) - Add location: ClassLoaderLocator
+[2018-07-18 15:04:42] DEBUG [main] (stream.JenaIOEnvironment - createLocationMapper:180) - Failed to find configuration: location-mapping.ttl;location-mapping.rdf;location-mapping.n3;etc/location-mapping.rdf;etc/location-mapping.n3;etc/location-mapping.ttl
+[2018-07-18 15:04:42] DEBUG [main] (sys.SystemTDB - determineIf64Bit:334) - System architecture: 64 bit
+[2018-07-18 15:04:42] DEBUG [main] (sys.SystemTDB - determineIf64Bit:330) - System architecture: 64 bit
+[2018-07-18 15:04:42]  INFO [main] (model.OntoModel - <init>:64) - Create instance model connected with Ontobase 192.168.0.11:9999/NationalLibrary
+[2018-07-18 15:04:42]  INFO [main] (model.OntoModel - <init>:64) - Create instance model connected with Ontobase 192.168.0.11:9999/NationalLibrary
+[2018-07-18 15:04:42]  INFO [main] (model.OntoModel - <init>:64) - Create instance model connected with Ontobase 192.168.0.11:9999/NationalLibrary
+[2018-07-18 15:06:01] DEBUG [main] (sys.JenaSystem$JenaInitLevel0 - start:212) - Jena initialization
+[2018-07-18 15:06:01] DEBUG [main] (util.FileManager - addLocator:158) - Add location: LocatorFile
+[2018-07-18 15:06:01] DEBUG [main] (util.FileManager - addLocator:158) - Add location: ClassLoaderLocator
+[2018-07-18 15:06:01] DEBUG [main] (util.LocationMapper - initFromPath:152) - Failed to find configuration: file:location-mapping.rdf;file:location-mapping.n3;file:location-mapping.ttl;file:etc/location-mapping.rdf;file:etc/location-mapping.n3;file:etc/location-mapping.ttl
+[2018-07-18 15:06:01] DEBUG [main] (util.FileManager - addLocator:158) - Add location: LocatorFile
+[2018-07-18 15:06:01] DEBUG [main] (util.FileManager - addLocator:158) - Add location: LocatorURL
+[2018-07-18 15:06:01] DEBUG [main] (util.FileManager - addLocator:158) - Add location: ClassLoaderLocator
+[2018-07-18 15:06:01] DEBUG [main] (stream.JenaIOEnvironment - createLocationMapper:180) - Failed to find configuration: location-mapping.ttl;location-mapping.rdf;location-mapping.n3;etc/location-mapping.rdf;etc/location-mapping.n3;etc/location-mapping.ttl
+[2018-07-18 15:06:01] DEBUG [main] (sys.SystemTDB - determineIf64Bit:334) - System architecture: 64 bit
+[2018-07-18 15:06:01] DEBUG [main] (sys.SystemTDB - determineIf64Bit:330) - System architecture: 64 bit
+[2018-07-18 15:06:01]  INFO [main] (model.OntoModel - <init>:64) - Create instance model connected with Ontobase 192.168.0.11:9999/NationalLibrary
+[2018-07-18 15:06:01]  INFO [main] (model.OntoModel - <init>:64) - Create instance model connected with Ontobase 192.168.0.11:9999/NationalLibrary
+[2018-07-18 15:06:01]  INFO [main] (model.OntoModel - <init>:64) - Create instance model connected with Ontobase 192.168.0.11:9999/NationalLibrary
