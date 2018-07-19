@@ -22,8 +22,7 @@ public class OntoRDFNode implements RDFNode {
 	}
 
 	public Node asNode() {
-		logger.error("This method is not implemented, so it returns null.");
-		return null;
+		return this.node.asNode();
 	}
 
 	public <T extends RDFNode> T as(Class<T> arg0) {
@@ -49,8 +48,7 @@ public class OntoRDFNode implements RDFNode {
 	}
 
 	public RDFNode inModel(Model arg0) {
-		logger.error("This method is not implemented, so it returns null.");
-		return null;
+		return this;
 	}
 
 	public boolean isAnon() {
@@ -74,4 +72,7 @@ public class OntoRDFNode implements RDFNode {
 		return null;
 	}
 
+	public String toString() {
+		return this.node.toString();
+	}
 }

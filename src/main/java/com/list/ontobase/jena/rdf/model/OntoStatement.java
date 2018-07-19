@@ -218,4 +218,8 @@ public class OntoStatement implements Statement {
 		logger.error("This method is not implemented, so it returns null.");
 		
 	}
+	
+	public String toString() {
+		return this.stmt.toString();
+	}
 }

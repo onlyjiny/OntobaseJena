@@ -264,8 +264,7 @@ public class OntoProperty implements Property {
 	}
 	
 	public Node asNode() {
-		logger.error("This method is not implemented, so it returns null.");
-		return null;
+		return this.p.asNode();
 	}
 	
 	public boolean isProperty() {
@@ -278,8 +277,7 @@ public class OntoProperty implements Property {
 	}
 	
 	public Property inModel(Model m) {
-		logger.error("This method is not implemented, so it returns null.");
-		return null;
+		return this;
 	}
 	
 	public String getLocalName() {
@@ -289,5 +287,9 @@ public class OntoProperty implements Property {
 	public int getOrdinal() {
 		logger.error("This method is not implemented, so it returns null.");
 		return 0;
+	}
+	
+	public String toString() {
+		return this.p.toString();
 	}
 }

@@ -1214,12 +1214,18 @@ public class OntoModel implements Model {
 	}
 	
 	private String createObjectString(RDFNode o) {
-		if(o.isURIResource()) {
-			return "<" + o.toString() + ">";
-		} else if(o.isAnon()) {
-			return o.toString();
-		} else if(o.isResource()) {
-			return "<" + o.toString() + ">";
+		if(o.isResource()) {
+			if(o.isURIResource()) {
+				return "<" + o.toString() + ">";
+			}  else if(o.isAnon()) {
+				if(o.toString().startsWith("_:")) {
+					return o.toString();
+				} else {
+					return "_:" + o.toString();
+				}
+			} else { 
+				return "<" + o.toString() + ">";
+			}
 		} else if(o.isLiteral()) {
 			return o.toString();
 		} else {

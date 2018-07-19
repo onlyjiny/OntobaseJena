@@ -66,8 +66,7 @@ public class OntoLiteral implements Literal {
 	}
 	
 	public Node asNode() {
-		logger.error("This method is not implemented, so it returns null.");
-		return null;
+		return this.l.asNode();
 	}
 	
 	public Literal inModel(Model m) {
@@ -139,5 +138,9 @@ public class OntoLiteral implements Literal {
 	public boolean sameValueAs(Literal other) {
 		logger.error("This method is not implemented, so it returns null.");
 		return false;
+	}
+	
+	public String toString() {
+		return this.l.toString();
 	}
 }

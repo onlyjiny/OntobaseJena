@@ -71,8 +71,7 @@ public class OntoResource implements Resource {
 	}
 
 	public Node asNode() {
-		logger.error("This method is not implemented, so it returns null.");
-		return null;
+		return this.r.asNode();
 	}
 
 	public AnonId getId() {
@@ -80,8 +79,7 @@ public class OntoResource implements Resource {
 	}
 
 	public Resource inModel(Model m) {
-		logger.error("This method is not implemented, so it returns null.");
-		return null;
+		return this;
 	}
 
 	public boolean hasURI(String uri) {
@@ -280,5 +278,9 @@ public class OntoResource implements Resource {
 	public Resource getPropertyResourceValue(Property p) {
 		logger.error("This method is not implemented, so it returns null.");
 		return null;
+	}
+	
+	public String toString() {
+		return this.r.toString();
 	}
 }
